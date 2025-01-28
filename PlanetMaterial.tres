@@ -1,0 +1,7 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://bb0j78rgkux47"]
+
+[ext_resource type="Shader" path="res://planet.gdshader" id="1_383p6"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_383p6")
